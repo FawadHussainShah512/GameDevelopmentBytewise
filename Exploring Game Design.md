@@ -1,6 +1,6 @@
 # Procedural generation:
 
-procedural generation means the data or the content is generated via a certain logic/algorithm, instead of a human creating the content manually.
+Procedural generation means the data or the content is generated via a certain logic/algorithm, instead of a human creating the content manually.
 Procedural generation is put to use in a lot more complex ways like generating graphics for video games. The awesome unending open world games graphics, where there is literally no end to the world, are a result of the procedural generation technique.
 GTA is a renowned example of this. The sole reason why the game exploded was that the players could do anything, go anywhere, fulfil their wildest fantasies, like jumping a cargo truck from a hill or landing a passenger plane on a fishing boat. It’s crazy, the game offers an unprecedented user experience.
 Gamers love open world games, which literally have no end. Run, drive, trek as far as, as long as you can.
